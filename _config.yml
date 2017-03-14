@@ -1,0 +1,12 @@
+# Site settings
+title: Timo Klock
+email: timo@simula.no
+description: > # this means to ignore newlines until "baseurl:"
+    I'm a PhD Candidate at the Simula Research Laboratory in Oslo, Norway. My
+    fields of interest are Data Science, Machine Learning and Inverse Problems.
+github_username:  soply
+gems:
+    - jekyll-sitemap
+
+# Build settings
+markdown: kramdown
